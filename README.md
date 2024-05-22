@@ -3,3 +3,7 @@
 This Repository demonstrates Stream processing for events posted on Azure EventHub. We demonstrate EventHub's Apache Kafka endpoint protocol and with Apache Flink cluster on **Azure HDInsight on AKS** process the streams. We Sink the data in delta formatted delta Lake on ADLS Gen2. Lastly we then create a short-cut on Microsoft Fabric and with its SQL endpoint demonstrate REAL-TIME analytics.
 
 ### Here is the complete blog https://medium.com/@masterkeshav/data-engineering-flink-streaming-kafka-events-to-delta-lakehouse-adls-gen2-with-microsoft-b705c7e32675
+
+### Illustration 2  - Demonstrating Stateful Stream Processing
+![image](https://github.com/keshavksingh/FlinkKafkaDelta/assets/41631964/6265ab0c-3e86-4290-9879-f1128aa209a8)
+
