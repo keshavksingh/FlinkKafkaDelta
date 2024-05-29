@@ -10,5 +10,5 @@ This Repository demonstrates Stream processing for events posted on Azure EventH
 
 ## Illustration 3 - Windowing
 ![image](https://github.com/keshavksingh/FlinkKafkaDelta/assets/41631964/96e3c039-8f75-46c4-9317-4c7df88d7abe)
-
+### https://medium.com/@masterkeshav/data-engineering-demystifying-flink-windowed-processing-with-azure-hdinsight-on-aks-flink-e5aa81feec63
 
